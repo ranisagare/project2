@@ -1,0 +1,19 @@
+body{
+
+
+    background-color: tomato;
+}
+h1{
+    text-align: center;
+    background-color:green;
+    color:white
+}
+div{
+    background-color: gray;
+    padding: 20px;
+}
+div a 
+{
+    color:aqua;
+    font-size: 20px;
+}
